@@ -1,0 +1,6 @@
+{
+    "reminderId": {"S": "cli-test-987"},
+    "dueDate": {"S": "2025-10-23"},
+    "message": {"S": "Powerwash simulator 2 releases today for us-west-2"},
+    "status": {"S": "pending"}
+}

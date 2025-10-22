@@ -1,0 +1,1 @@
+aws dynamodb put-item --table-name DailyReminders --item file://item.json --region us-west-2 --profile tfproject
