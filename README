@@ -1,4 +1,3 @@
-````markdown
 # 🧭 AWS Daily Task Reminders
 
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -95,10 +94,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Author:** [Your Name](https://github.com/yourusername)
+**Author:** [Dion](https://github.com/dion)
 🌐 Built with ❤️ using Terraform + AWS DynamoDB
-
-```
-
-Would you like me to adapt it to use **remote Terraform state (e.g., S3 backend)** and include that configuration snippet too? It makes the README more realistic for a cloud-deployed project.
-```
